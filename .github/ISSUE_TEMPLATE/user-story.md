@@ -1,4 +1,3 @@
-
 ---
 name: User Story
 about: Create a user story with Gherkin acceptance criteria
